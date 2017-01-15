@@ -8,6 +8,8 @@ Priporočam, da program poganjate s programom Spyder (https://www.continuum.io/d
 
 Navodila za uporabo programa najdete v priloženem pdf-ju (GeoPocket - dokumentacija).
 
+Glavna datoteka je geopocket.py, program poženemo in kličemo funkcije, v katere vstavljamo podatke.
+
 Želim vam obilo užitkov pri uporabi programa.
 
 Simon Šanca
